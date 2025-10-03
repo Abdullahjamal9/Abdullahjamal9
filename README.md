@@ -46,11 +46,16 @@
 - [🔮 T20 Score Predictor](https://github.com/Abdullahjamal9/T20-Score-Predictor)  
   *ML model using XGBoost for cricket score predictions.*
 
-- [📊 Power BI Sales Dashboard](https://github.com/Abdullahjamal9/PowerBI-Dashboard)  
+- [📊 Power BI Sales Dashboard](https://github.com/Abdullahjamal9/Sales_dasboard)  
   *Interactive BI dashboard for sales insights.*
 
 - [🤖 Recruitment System with LLM](https://github.com/Abdullahjamal9/Recruitment-System)  
   *Automated recruitment tool powered by LLM API integration.*
+  
+- [📝 LMS Automation - Quiz System](https://github.com/Abdullahjamal9/Quiz_Running)  
+  *An automated LMS system built with Streamlit. Employees log in with their ID, take tests with negative marking, and results are auto-stored in Google Sheets via API.  
+  Admins can view dashboards, download individual results, and auto-generate certificates for candidates who pass 4 standards. Hosted live using Streamlit Cloud.*
+
 
 ## 📫 Connect With Me
 
