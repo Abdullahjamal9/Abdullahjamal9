@@ -1,4 +1,5 @@
 # Hi, I'm Abdullah 👋
+![trophy](https://github-profile-trophy.vercel.app/?username=Abdullahjamal9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ## 💫 About Me
 
@@ -40,20 +41,22 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjamal9&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjamal9&layout=compact&theme=tokyonight)
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-- [Movie Recommendation System](https://github.com/Abdullahjamal9/Movie_Recommendation_System) 🎬  
-  Built a recommendation system using collaborative & content-based filtering (Python, scikit-learn).
+- [🔮 T20 Score Predictor](https://github.com/Abdullahjamal9/T20-Score-Predictor)  
+  *ML model using XGBoost for cricket score predictions.*
 
-- [Analyzing App Data](https://github.com/Abdullahjamal9/Analyzing_app) 📱  
-  Data analysis of Google Play apps with visualization and insights (Python, Pandas, Matplotlib).
+- [📊 Power BI Sales Dashboard](https://github.com/Abdullahjamal9/PowerBI-Dashboard)  
+  *Interactive BI dashboard for sales insights.*
 
-- [Data Visualization on UFC](https://github.com/Abdullahjamal9/Data_Visualization_on_UFC) 🥊  
-  Visual storytelling project using Seaborn & Matplotlib for sports analytics.
+- [🤖 Recruitment System with LLM](https://github.com/Abdullahjamal9/Recruitment-System)  
+  *Automated recruitment tool powered by LLM API integration.*
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-jamal-705190227/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.jamal1402@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Abdullahjamal9&label=Profile%20Views&color=0e75b6&style=flat)
 
 
