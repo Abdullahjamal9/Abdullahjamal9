@@ -40,8 +40,20 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjamal9&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjamal9&layout=compact&theme=tokyonight)
 
-## 📫 Contact
+## 📂 Featured Projects
 
-* Email: `abdullah.jamal1402@gmail.com`
-* LinkedIn: `https://www.linkedin.com/in/muhammad-abdullah-jamal-705190227/`
+- [Movie Recommendation System](https://github.com/Abdullahjamal9/Movie_Recommendation_System) 🎬  
+  Built a recommendation system using collaborative & content-based filtering (Python, scikit-learn).
+
+- [Analyzing App Data](https://github.com/Abdullahjamal9/Analyzing_app) 📱  
+  Data analysis of Google Play apps with visualization and insights (Python, Pandas, Matplotlib).
+
+- [Data Visualization on UFC](https://github.com/Abdullahjamal9/Data_Visualization_on_UFC) 🥊  
+  Visual storytelling project using Seaborn & Matplotlib for sports analytics.
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-jamal-705190227/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.jamal1402@gmail.com)
+
 
