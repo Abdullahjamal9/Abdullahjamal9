@@ -11,13 +11,13 @@
 * Building dashboards with Power BI
 * Supervised ML models (XGBoost, scikit-learn)
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack:
 
-* **Languages:** Python, SQL, JavaScript (basics)
-* **Libraries:** Pandas, NumPy, scikit-learn, XGBoost, Matplotlib
-* **BI / Tools:** Power BI, Excel, Jupyter
-* **Databases:** Microsoft SQL Server, SQLite
-* **Other:** Git, GitHub, Docker (optional)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 ## 📂 Projects (pin the ones you want to highlight)
 
@@ -30,28 +30,11 @@
 
 > Replace the short descriptions above with 1–2 sentences about *what you built*, *what tech you used*, and *how someone can try it*.
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats:
 
-Add GitHub-generated stats and cards to show contributions and language breakdown:
-
-```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullahjamal9&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjamal9&layout=compact)
-```
-
-## 🚀 How to run my projects (example)
-
-```bash
-# clone a project
-git clone https://github.com/Abdullahjamal9/Movie_Recommendation_System.git
-cd Movie_Recommendation_System
-# create venv
-python -m venv venv
-source venv/bin/activate  # on Windows: venv\Scripts\activate
-pip install -r requirements.txt
-# run demo (replace with repo-specific commands)
-python app.py
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullahjamal9&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjamal9&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjamal9&layout=compact&theme=tokyonight)
 
 ## ✅ README checklist for each project (make these changes in each repo)
 
