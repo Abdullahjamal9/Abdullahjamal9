@@ -47,7 +47,7 @@
   *ML model using XGBoost for cricket score predictions.*
 
 - [📝 LMS Automation - Quiz System](https://github.com/Abdullahjamal9/Quiz-Running)  
-  *Streamlit-based automated LMS system with Google Sheets API, test-taking (negative marking), admin dashboards, result downloads, and certificate generation for successful candidates.*
+  *AI-powered LMS quiz platform with automated grading, dashboards, and certificate generation.*
 
 - [📊 Power BI Sales Dashboard](https://github.com/Abdullahjamal9/Sales_dasboard)  
   *Interactive BI dashboard for sales insights.*
