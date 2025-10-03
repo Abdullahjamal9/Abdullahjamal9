@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah 👋
 
-## About Me
+## 💫 About Me
 
 * I'm **Abdullah Jamal**, a Data Analyst focused on data preprocessing, visualization, and building ML-backed insights. I work with Python, Power BI, and SQL to turn messy data into actionable reports.
 
