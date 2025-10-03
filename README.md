@@ -52,7 +52,7 @@
 - [📊 Power BI Sales Dashboard](https://github.com/Abdullahjamal9/Sales_dasboard)  
   *Interactive BI dashboard for sales insights.*
 
-- [🤖 Recruitment System with LLM](https://github.com/Abdullahjamal9/Recruitment-System)  
+- [🤖 Recruitment System with LLM](https://github.com/Abdullahjamal9/Talent_Scan)  
   *Automated recruitment tool powered by LLM API integration.*
   
 
