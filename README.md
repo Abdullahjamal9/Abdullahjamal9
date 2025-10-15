@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1DA1F2&center=false&vCenter=true&width=550&lines=Hi+I'm+Abdullah+Jamal;Data+Analyst+at+PTIS;Making+Data+Speaks+for+Change)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1DA1F2&center=false&vCenter=true&width=550&lines=Hi+I'm+Abdullah+Jamal;Data+Analyst+at+PTIS;Powering+Decisions+with+Precision)](https://git.io/typing-svg)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Abdullahjamal9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
