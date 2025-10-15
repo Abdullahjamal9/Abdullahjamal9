@@ -1,4 +1,5 @@
 # Hi, I'm Abdullah 👋
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Abdullahjamal9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ## 💫 About Me
