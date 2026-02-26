@@ -36,10 +36,7 @@
 
 ## 📊 GitHub Stats:
 
-<p align="Left">
   <img src="https://streak-stats.demolab.com?user=Abdullahjamal9&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjamal9&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🚀 Featured Projects
 
