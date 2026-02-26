@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1DA1F2&center=false&vCenter=true&width=550&lines=Hi+I'm+Abdullah+Jamal+👋;Data+Analyst+at+PTIS;Powering+Decisions+with+Precision)](https://git.io/typing-svg)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Abdullahjamal9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
 ## 💫 About Me
 
 * I'm **Abdullah Jamal**, a Data Analyst focused on data preprocessing, visualization, and building ML-backed insights. I work with Python, Power BI, and SQL to turn messy data into actionable reports.
@@ -39,7 +37,6 @@
 ## 📊 GitHub Stats:
 
 <p align="Left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahjamal9&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=Abdullahjamal9&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjamal9&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
