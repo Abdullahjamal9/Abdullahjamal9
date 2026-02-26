@@ -39,9 +39,9 @@
 ## 📊 GitHub Stats:
 
 <p align="Left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahjamal9&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdullahjamal9&theme=tokyonight&hide_border=true" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjamal9&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahjamal9&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Abdullahjamal9&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjamal9&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🚀 Featured Projects
